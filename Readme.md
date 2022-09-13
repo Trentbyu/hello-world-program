@@ -7,8 +7,8 @@ Hello wrold is the most basic program to write. Most people when they are tuaght
 
 # Development Environment
 
-This program was made using visual studio code. The program is saved here on github.
-This program was also made in python. 
+This program was made using Python and devolped in visual studio code. The program is saved here on github.
+
 
 # Useful Websites
 
