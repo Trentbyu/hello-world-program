@@ -3,7 +3,7 @@
 
 Hello wrold is the most basic program to write. Most people when they are taught a new language, they are taught how to write hello world to the terminal. 
 
-*This was writen to show how to use github, git, python, and visual studio code.
+* This was writen to show how to use github, git, python, and visual studio code.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
