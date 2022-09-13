@@ -1,7 +1,7 @@
 
 # Overview
 
-Hello wrold is the most basic program to write. Most people when they are tuaght a new language, they are tuaght how to write hello world to the terminal. 
+Hello wrold is the most basic program to write. Most people when they are tuaght a new language, they are taught how to write hello world to the terminal. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
