@@ -19,4 +19,4 @@ This program was made using Python and devolped in visual studio code. The progr
 
 * [Python.org](https://www.python.org/)
 * [VS CODE](https://code.visualstudio.com/)
-* * [github]()
+* * [github](https://github.com/)
